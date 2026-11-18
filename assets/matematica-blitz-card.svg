@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Matemática Blitz</title>
+  <desc id="desc">Card simples de um jogo de contas rápidas com a expressão 48 menos 26 igual a interrogação.</desc>
+  <rect width="1200" height="630" fill="#f3f0e8"/>
+  <path d="M0 78H1200M0 156H1200M0 234H1200M0 312H1200M0 390H1200M0 468H1200M0 546H1200" stroke="#e1ddd2" stroke-width="2"/>
+  <path d="M72 0V630M168 0V630M264 0V630M360 0V630M456 0V630M552 0V630M648 0V630M744 0V630M840 0V630M936 0V630M1032 0V630M1128 0V630" stroke="#e8e4db" stroke-width="2"/>
+  <rect x="74" y="72" width="1052" height="486" rx="20" fill="#fffdf8" stroke="#172a3a" stroke-width="5"/>
+  <path d="M74 178H1126" stroke="#e27438" stroke-width="7"/>
+  <text x="112" y="137" fill="#172a3a" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="2">MATEMÁTICA BLITZ</text>
+  <text x="112" y="228" fill="#69747c" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">CONTAS DE CABEÇA, SEM ENROLAÇÃO</text>
+  <text x="112" y="390" fill="#172a3a" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="700">48 − 26 = ?</text>
+  <path d="M112 432H748" stroke="#2c6b91" stroke-width="8" stroke-linecap="round"/>
+  <text x="855" y="406" fill="#e27438" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">jogue</text>
+  <text x="855" y="451" fill="#2c6b91" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">pense</text>
+  <text x="855" y="496" fill="#172a3a" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">melhore</text>
+  <circle cx="1060" cy="128" r="18" fill="#e27438"/>
+  <circle cx="1012" cy="128" r="18" fill="#2c6b91"/>
+</svg>

@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://gabrielaraujo-eng.github.io/matematica-blitz/">
-    <img src="assets/og-cover.png" alt="Capa do jogo Matemática Blitz" width="100%" />
+    <img src="assets/matematica-blitz-cover.svg" alt="Capa do jogo Matemática Blitz" width="100%" />
   </a>
   <p><strong>Um jogo de contas rápidas para treinar as quatro operações contra o relógio.</strong></p>
   <p>
@@ -15,7 +15,7 @@
 
 ## Por que este jogo
 
-Matemática Blitz nasceu da ideia de transformar treino de cálculo mental em algo rápido e disputado: uma partida curta, teclado na mão, cronômetro correndo e recorde pessoal para bater. É um único arquivo HTML, sem servidor, sem conta e sem coleta de dados.
+Matemática Blitz nasceu como um jeito simples de praticar cálculo mental: uma partida curta, teclado na mão, cronômetro correndo e um recorde pessoal para tentar melhorar. É um único arquivo HTML, sem servidor, sem conta e sem coleta de dados.
 
 ## Como jogar
 
@@ -64,7 +64,7 @@ pontos = base da dificuldade
        + bônus de combo       (min(combo, 30) × 9)
 ```
 
-Cada partida concede **XP** igual a `pontos ÷ 12`. A cada 400 XP o nível sobe, e o título evolui entre Aprendiz, Contador, Cálculo Rápido, Mente Veloz, Mestre das Contas, Raio Solar e Lenda do Blitz.
+Cada partida concede **XP** igual a `pontos ÷ 12`. A cada 400 XP o nível sobe, e o título passa por Começando, Praticante, Bom de conta, Rápido de cabeça, Mestre das contas, Veterano e Sem calculadora.
 
 ## Estatísticas e conquistas
 
@@ -104,8 +104,8 @@ O workflow [`.github/workflows/pages.yml`](.github/workflows/pages.yml) publica 
 
 ```text
 index.html                  jogo completo (HTML + CSS + JavaScript em um arquivo)
-assets/og-cover.png         capa do repositório
-assets/game-grid.png        arte quadrada usada em cards e compartilhamento
+assets/matematica-blitz-cover.svg capa do repositório
+assets/matematica-blitz-card.svg  arte quadrada usada no card do perfil
 .github/workflows/pages.yml publicação no GitHub Pages
 ```
 
